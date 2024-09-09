@@ -6,10 +6,11 @@ title: "FasterFashionAI"
 date: 2024
 published: true
 labels:
-  - AI
-  - Building
+  - Grailed
+  - Finance
   - Fashion
-  - Consumerism Reduction
+  - Calculator
+  - Program
 summary: "This program calculates the seller's net earning fee"
 ---
 --- 

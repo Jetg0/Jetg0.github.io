@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/FasterFashionAI.png
 title: "FasterFashionAI"
 date: 2024
 published: true

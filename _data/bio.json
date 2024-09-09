@@ -1,8 +1,8 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Josh Golez",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/Jetg0.png",
     "email": "molly@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://mmaluhia.github.io",
@@ -16,11 +16,11 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Gaming" },
+    { "name": "Fashion" },
+    { "name": "Software Engineering" },
+    { "name": "Gym" },
+    { "name": "Community" }
   ],
   "skills": [
     {

@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: 
-title: "FasterFashionAI"
+title: "Grailed Seller Earnings Calculator"
 date: 2024
 published: true
 labels:

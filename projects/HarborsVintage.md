@@ -9,7 +9,7 @@ labels:
   - Community 
   - Rebuilding
   - Networking
-summary: "My team developed a safe space for customers to engage in."
+summary: "Developed a safe space for customers to engage in"
 ---
 --- 
   Harbors Vintage is a clothing store located in Hawaii, known for offering a curated selection of vintage clothing and accessories. The shop attracts both locals and tourists with its unique, retro inspired pieces that span various decades and styles. Whether shoppers are looking for nostalgic, one of a kind finds or popular streetwear, Harbors Vintage has become a go to destination for fashion enthusiasts in search of timeless and trendy garments.

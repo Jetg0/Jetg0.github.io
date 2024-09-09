@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/HarborsVintage_logo.jpg
+image: HarborsVintage_logo.jpg
 title: "Harbors Vintage (3rd Space)"
 date: 2024
 published: true

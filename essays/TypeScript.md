@@ -9,8 +9,6 @@ labels:
   - Software Engineering
 ---
 
-TypeScript: Is it similar to JavaScript or is it Better?
-
 As a Computer Science student and an intermediate Java developer, I recently started using TypeScript, which is a language that has a different edge over JavaScript. Comparing and contrasting these features to Java while using a software engineers perspective will be dove into for this reflection. 
 
 The transition from Java, being that it is an object oriented based language to TypeScript, which is similar to JavaScript- uses static types was easier to learn than I expected it to be. The syntax of TypeScript was fairly familiar and the structure of the code was comparable to Java. The provided code below is an excellent example of the differences in TypeScript.

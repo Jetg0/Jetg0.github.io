@@ -6,7 +6,7 @@ title: "Creating a Safe World with Fashion, AI, Gaming, and Ethical Hacking"
 date: 2024-09-07
 published: true
 labels:
-  - Software Engineering
+  - Software Engineering 
 ---
 ---
 As an intermediate software engineer with a strong foundation in JavaScript, Java, and TypeScript, my passion for pushing the boundaries of technology drives me towards specialized fields such as artificial intelligence (AI), game development, and cybersecurity, particularly offensive hacking for governmental applications. My curiosity and enthusiasm for these areas are not only fueled by their technical challenges but also by their potential to significantly impact society.

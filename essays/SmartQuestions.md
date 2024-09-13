@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Engineering
 ---
-
+ 
 Background
 
 Stack Overflow is a go to coffee shop for developers in a sense where you can ask about coding problems and get help from tech enthusiasts worldwide. But just like a coffee shop, asking questions impacts the types of answers you can get. This essay analyzes two types of questions; one that's well asked vs. another that is prompted vaguely. 

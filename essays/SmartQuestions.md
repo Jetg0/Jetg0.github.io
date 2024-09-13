@@ -21,7 +21,7 @@ This question dives into using XNA and Silverlight for game development, specifi
   - Relevance: It addressses a common decision point for developers choosing a game development framework, making it useful to
                the broad community.
 
-    [Here's the link to the smart question.](https://stackoverflow.com/questions/3307078/setting-indexed-columns-on-a-custom-sql-table/3307891#3307891).
+    [Here's the link to the smart question](https://stackoverflow.com/questions/3307078/setting-indexed-columns-on-a-custom-sql-table/3307891#3307891).
 
 Not so Good Question: Private Properties in Classes
 
@@ -38,4 +38,4 @@ Looking at these two examples, it’s clear that a well thought out question lea
 
 Just like how you might get better help at a coffee shop by clearly explaining what you want, on Stack Overflow, the clarity and detail of your question are key to getting good answers. So next time you’re stuck with a coding issue, take a minute to craft a solid question it’ll make a world of difference in the kind of help you receive.
 
- [Here's the link to the less effective question.]().
+ [Here's the link to the less effective question]().

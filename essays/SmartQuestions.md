@@ -15,9 +15,12 @@ Stack Overflow is a go to coffee shop for developers in a sense where you can as
 
 Smart Question: XNA and Silverlight for Game Development
 
-This question dives into using XNA and Silverlight for game development, specifically asking about the types of games that can be created with these technologies. This question contains the following;
+This question dives into using XNA and Silverlight for game development, specifically asking about the types of games that can be created with these technologies. This question contains the following:
+
   - Clarity: It directly asks about XNA and Silverlight, providing a focal point in the discussion.
+    
   - Detail: Includes details about the frameworks in the question, which helps attract responders with knowledge.
+    
   - Relevance: It addressses a common decision point for developers choosing a game development framework, making it useful to
                the broad community.
 

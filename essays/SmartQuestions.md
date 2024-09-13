@@ -20,4 +20,5 @@ This question dives into using XNA and Silverlight for game development, specifi
   - Detail: Includes details about the frameworks in the question, which helps attract responders with knowledge.
   - Relevance: It addressses a common decision point for developers choosing a game development framework, making it useful to
                the broad community.
-    View the effective question about XNA and Silverlight [A Smart Question](https://stackoverflow.com/questions/3307078/setting-indexed-columns-on-a-custom-sql-table/3307891#3307891).
+
+    [A Smart Question](https://stackoverflow.com/questions/3307078/setting-indexed-columns-on-a-custom-sql-table/3307891#3307891).

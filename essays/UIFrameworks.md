@@ -22,7 +22,7 @@ Bootstrap 5 seemed like a good choice because it has a lot of built-in features 
 
 One of the main challenges was making sure the website looked just like the original Salvage Public site. Bootstrap’s default styles are pretty general and didn't match the specific style I needed. I spent a lot of time figuring out how to customize these styles, which required a deeper understanding of CSS than I expected. Another big challenge was making the site look good on all devices. Even though Bootstrap is built for responsiveness, I had to tweak a lot of things to get everything looking right on different screens.
 
-The code below shows how much effort I put in for styling the footer for my mock up website <a href="https://salvagepublic.com/">here</a>.
+The code below shows how much effort I put in for styling the footer for my mock up website <a href="https://salvagepublic.com/">here</a> is the actual website.
 Much more improvements could be made in the future with more precise coding.
 
 ```HTML

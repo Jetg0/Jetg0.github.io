@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Recreating Salvage Public’s Website with Bootstrap 5"
+title: "Uncanny Websites"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-08
 published: true

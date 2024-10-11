@@ -76,10 +76,10 @@ footer .social-icons a {
 
 Here's a comparison between the real vs. mock up website. Can you tell which is the real one?
 
-![image](https://github.com/user-attachments/assets/9aa6d4f0-044c-42e6-a79d-9ad0072e495f) ![image](https://github.com/user-attachments/assets/f2e789a9-1394-4dab-a73e-63dfef609e33)
-
-
-![image](https://github.com/user-attachments/assets/86a84070-2022-4132-bbb2-1443432c1d85)![image](https://github.com/user-attachments/assets/7d51cdba-9cab-4216-bb01-e1a8206accba)
+<img src="https://github.com/user-attachments/assets/9aa6d4f0-044c-42e6-a79d-9ad0072e495f" alt="First image description" width="200" height="150">
+<img src="https://github.com/user-attachments/assets/f2e789a9-1394-4dab-a73e-63dfef609e33" alt="Second image description" width="200" height="150">
+<img src="https://github.com/user-attachments/assets/86a84070-2022-4132-bbb2-1443432c1d85" alt="Third image description" width="200" height="150">
+<img src="https://github.com/user-attachments/assets/7d51cdba-9cab-4216-bb01-e1a8206accba" alt="Fourth image description" width="200" height="150">
 
 
 

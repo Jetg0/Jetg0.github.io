@@ -25,7 +25,7 @@ One of the main challenges was making sure the website looked just like the orig
 The code below shows how much effort I put in for styling the footer for my mock up website. <a href="https://salvagepublic.com/">Here</a> is the actual website.
 Much more improvements could be made in the future with more precise coding.
 
-```
+```ruby
 footer {
     font-size: 14px;
     color: #333;

@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "JavaScript but Better?"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-06
+date: 2025-01-23
 published: true
 labels:
   - Software Engineering

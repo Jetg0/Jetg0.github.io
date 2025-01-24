@@ -4,7 +4,7 @@ type: essay
 title: "Uncanny Websites"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-08
-published: true
+published: false
 labels:
   - Software Engineering 
 ---

@@ -7,6 +7,7 @@ date: 2025-01-23
 published: true
 labels:
   - Software Engineering
+
 ---
 
 As a Computer Science student and an intermediate Java developer, I recently started using TypeScript, which is a language that has a different edge over JavaScript. Comparing and contrasting these features to Java while using a software engineers perspective will be dove into for this reflection. 

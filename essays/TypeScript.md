@@ -26,5 +26,5 @@ The example above,  uses the arrow function in TypeScript which is clear and saf
 
 Overall, the main takeaways with JavaScript and TypeScript are the faster run times and declutter that TypeScript has to offer. TypeScript was ultimately fun and refreshing to learn as I reminisced of the code being similar to JavaScript. 
 
-
+Did not use AI in this Essay
 

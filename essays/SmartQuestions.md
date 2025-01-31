@@ -45,4 +45,4 @@ Looking at these two examples, it’s clear that a well thought out question lea
 
 Just like how you might get better help at a coffee shop by clearly explaining what you want, on Stack Overflow, the clarity and detail of your question are key to getting good answers. So next time you’re stuck with a coding issue, take a minute to craft a solid question it’ll make a world of difference in the kind of help you receive.
 
- 
+ Did not use AI in this essay

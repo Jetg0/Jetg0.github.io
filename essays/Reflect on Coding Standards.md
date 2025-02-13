@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "ESLint: The Useful but Painful Micromanager"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-26
-published: false                  
+date: 2025-02-11
+published: true                  
 labels:
   - Software Engineering
 ---
@@ -78,3 +78,5 @@ Coding standards are particularly valuable as a learning tool. For newcomers, ad
 The initial resistance to coding standards tools like ESLint often comes from the discomfort of changing established habits. However, this discomfort is indicative of their effectiveness, pushing developers to refine their skills and align with team goals, which ultimately leads to better code quality and a more disciplined team culture.
 
 These insights demonstrate the dual nature of coding standards enforcement tools like ESLint. While initially, they may seem to complicate the development process with what appears to be tedious critiques, it's true value lies in clarity, precision, and consistency. Each ESLint error corrected is not just an act of compliance but a step towards deeper understanding and better software craftsmanship. Thus, embracing coding standards and tools that enforce them is about committing to continuous improvement and excellence in our coding practices.
+
+AI was used in this essay.

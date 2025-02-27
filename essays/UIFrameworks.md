@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "Uncanny Websites"
 # All dates must be YYYY-MM-DD format!
-date: 2024-10-08
-published: false
+date: 2025-02-26
+published: true
 labels:
   - Software Engineering 
 ---
@@ -93,3 +93,5 @@ Looking back, there are several things I could do better. For one, I could spend
 #### Conclusion
 
 Recreating the Salvage Public website using Bootstrap 5 was a challenging but rewarding project. It taught me a lot about the framework and how to approach web development projects in general. I learned about the importance of customization, responsiveness, and optimization. I’m looking forward to using what I’ve learned in future projects and getting even better at creating websites that are both beautiful and functional.
+
+AI was used in this essay

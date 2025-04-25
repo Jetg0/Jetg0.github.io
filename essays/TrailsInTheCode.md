@@ -20,3 +20,5 @@ Then there's the Observer pattern, which reminds me of a network of scouts sprea
 Using these patterns has been like having the best hiking gear. They’ve not only made my projects more organized but also more flexible, ready to adapt to changes. It's like knowing the forest so well that no matter the weather or the new paths that need forging, I can handle it, and even help guide others.
 
 So, while design patterns give us a method to solve problems using solutions that worked well in the past, the real skill is knowing when and how to use them creatively. It’s not about following the path blindly but understanding why it exists and when it’s the right one to take. This keeps the journey through the coding wilderness exciting and, importantly, personal.
+
+[AI was used in this essay]

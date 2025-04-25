@@ -4,7 +4,7 @@ type: essay
 title: "Creating a Safe World with Fashion, AI, Gaming, and Ethical Hacking"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-07
-published: false
+published: true
 labels:
   - Software Engineering 
 ---

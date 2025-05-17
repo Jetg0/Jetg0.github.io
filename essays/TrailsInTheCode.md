@@ -4,7 +4,7 @@ type: essay
 title: "Trails in Code"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-24
-published: true
+published: false
 labels:
   - Software Engineering 
 ---

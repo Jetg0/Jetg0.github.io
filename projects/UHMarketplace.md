@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: ![image](https://github.com/user-attachments/assets/b6aa1f5d-876b-4681-810f-27c4886ec6da)
+image: image/UHMarketplace.webp
+
 
 title: "UH Marketplace"
 date: 2025

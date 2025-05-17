@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://uh-marketplace.github.io/images/landingPageM3.png"
+image: image/Screenshot 2025-05-16 174027.png
 title: "UH Marketplace"
 date: 2025
 published: true

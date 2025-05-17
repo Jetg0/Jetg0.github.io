@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: ![image](https://github.com/user-attachments/assets/a728f76c-fe6c-41f8-a937-d53279666de1)
+image: ![image](https://github.com/user-attachments/assets/b6aa1f5d-876b-4681-810f-27c4886ec6da)
+
 title: "UH Marketplace"
 date: 2025
 published: true

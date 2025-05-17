@@ -1,9 +1,7 @@
 ---
 layout: project
 type: project
-image: image/UHMarketplace.webp
-
-
+image: "https://github.com/user-attachments/assets/b6aa1f5d-876b-4681-810f-27c4886ec6da"
 title: "UH Marketplace"
 date: 2025
 published: true
@@ -14,13 +12,12 @@ labels:
   - Team Based
   - Software Engineering
 ---
-## UH Marketplace
 
-[![Visit the UH Marketplace Homepage](https://uh-marketplace.github.io/images/ProfilePage.png)](https://uh-marketplace.github.io/)
+# UH Marketplace
 
-> **A campus-only marketplace for UH Mānoa students & faculty**
-
----
+<a href="https://uh-marketplace.github.io/">
+  <img src="https://uh-marketplace.github.io/images/ProfilePage.png" width="350" alt="Profile Page">
+</a>
 
 **Live Project:** [uh-marketplace.github.io](https://uh-marketplace.github.io/)  
 **App Demo:** [uh-marketplace-app.vercel.app](https://uh-marketplace-app.vercel.app/)  
@@ -30,11 +27,11 @@ labels:
 
 ### Overview
 
-**UH Marketplace** is a secure, UH Mānoa-exclusive platform that allows students and faculty to buy, sell, and trade items like textbooks, electronics, furniture, clothes, and more. Unlike Facebook Marketplace, it’s invite-only with @hawaii.edu authentication for a safer, campus-based experience. Users can post listings, explore categories, message one another, and manage favorites—built with Next.js, PostgreSQL, and Bootstrap 5.
+UH Marketplace is a secure, UH Mānoa-exclusive platform that allows students and faculty to buy, sell, and trade items like textbooks, electronics, furniture, clothes, and more. Unlike Facebook Marketplace, it’s invite-only with @hawaii.edu authentication for a safer, campus-based experience. Users can post listings, explore categories, message one another, and manage favorites—built with Next.js, PostgreSQL, and Bootstrap 5.
 
 ---
 
-### My Contributions
+#### My Contributions
 
 - Developed core pages: Landing, Explore, Profile, Favorites, Messages
 - Integrated authentication with UH emails and protected routes
@@ -45,7 +42,7 @@ labels:
 
 ---
 
-### What I Learned
+#### What I Learned
 
 Working on UH Marketplace helped me level up my full-stack skills and teamwork. I learned how to:
 - Collaborate effectively on GitHub with issues, PRs, and code reviews
@@ -56,23 +53,23 @@ Working on UH Marketplace helped me level up my full-stack skills and teamwork. 
 
 ---
 
-### Screenshots
+#### Screenshots
 
-#### Sign Up  
-![Sign Up](https://github.com/user-attachments/assets/142f7f88-356c-4638-8754-c9c3106d956e)
+**Sign Up**  
+<img src="https://github.com/user-attachments/assets/142f7f88-356c-4638-8754-c9c3106d956e" width="350" alt="Sign Up">
 
-#### Explore Listings  
-![Explore Listings](https://github.com/user-attachments/assets/424d13b3-73f4-40f2-b61a-5f21f56836e6)
+**Explore Listings**  
+<img src="https://github.com/user-attachments/assets/424d13b3-73f4-40f2-b61a-5f21f56836e6" width="350" alt="Explore Listings">
 
-#### Profile Page  
-![Profile Page](https://uh-marketplace.github.io/images/ProfilePage.png)
+**Profile Page**  
+<img src="https://uh-marketplace.github.io/images/ProfilePage.png" width="350" alt="Profile Page">
 
-#### Posting an Item  
-![Post Item](https://github.com/user-attachments/assets/986ad173-9d66-41dc-8222-0ec1914dc281)
+**Posting an Item**  
+<img src="https://github.com/user-attachments/assets/986ad173-9d66-41dc-8222-0ec1914dc281" width="350" alt="Post Item">
 
 ---
 
-### See More
+#### See More
 
 - [Project Homepage](https://uh-marketplace.github.io/)
 - [App Repository](https://github.com/uh-marketplace/uh-marketplace-app)
@@ -81,4 +78,4 @@ Working on UH Marketplace helped me level up my full-stack skills and teamwork. 
 
 ---
 
-> _UH Marketplace: A sustainable way to trade on campus. Built by UH Mānoa students._
+_UH Marketplace: A sustainable way to trade on campus. Built by UH Mānoa students._

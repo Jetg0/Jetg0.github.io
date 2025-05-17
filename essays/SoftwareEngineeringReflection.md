@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: essay
+type: essay
 title: "What I Learned About Software Engineering"
 date: 2025-05-12
 published: true

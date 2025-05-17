@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://github.com/user-attachments/assets/b6aa1f5d-876b-4681-810f-27c4886ec6da"
+image: "https://uh-marketplace.github.io/images/landingPageM3.png"
 title: "UH Marketplace"
 date: 2025
 published: true
@@ -16,7 +16,7 @@ labels:
 # UH Marketplace
 
 <a href="https://uh-marketplace.github.io/">
-  <img src="https://uh-marketplace.github.io/images/ProfilePage.png" width="350" alt="Profile Page">
+  <img src="https://uh-marketplace.github.io/images/landingPageM3.png" width="350" alt="Landing Page">
 </a>
 
 **Live Project:** [uh-marketplace.github.io](https://uh-marketplace.github.io/)  
@@ -54,6 +54,9 @@ Working on UH Marketplace helped me level up my full-stack skills and teamwork. 
 ---
 
 #### Screenshots
+
+**Landing Page**  
+<img src="https://uh-marketplace.github.io/images/landingPageM3.png" width="350" alt="Landing Page">
 
 **Sign Up**  
 <img src="https://github.com/user-attachments/assets/142f7f88-356c-4638-8754-c9c3106d956e" width="350" alt="Sign Up">

@@ -4,7 +4,7 @@ type: essay
 title: "A Good Question will have a Good Answer"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-29
-published: true
+published: false
 labels:
   - Software Engineering
 ---

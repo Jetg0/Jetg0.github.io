@@ -8,7 +8,6 @@ labels:
   - Software Engineering
 ---
 
-# Reflections on the Use of AI in ICS 314: Personal Experiences and Insights
 
 ## Introduction
 

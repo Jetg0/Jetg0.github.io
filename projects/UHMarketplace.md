@@ -13,8 +13,6 @@ labels:
   - Software Engineering
 ---
 
-# UH Marketplace
-
 <a href="https://uh-marketplace.github.io/">
   <img src="https://uh-marketplace.github.io/images/landingPageM3.png" width="350" alt="Landing Page">
 </a>

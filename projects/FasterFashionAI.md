@@ -4,7 +4,7 @@ type: project
 image: img/FasterFashionAI.png
 title: "FasterFashionAI"
 date: 2024
-published: true
+published: false
 labels:
   - AI
   - Building

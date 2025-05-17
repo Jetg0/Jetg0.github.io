@@ -9,7 +9,7 @@ published: true
 
 After working on the UH Marketplace project, I realized that this class was about much more than just web development. The most valuable skills I learned were fundamental software engineering practices that apply to any kind of software, not just websites.
 
-In this reflection, I’ll talk about three core concepts—**Configuration Management**, **Agile Project Management**, and **Design Patterns**—and how they show up beyond web apps. Every section has real examples from our project.
+In this reflection, I’ll talk about three core concepts **Configuration Management**, **Agile Project Management**, and **Design Patterns** and how they show up beyond web apps. Every section has real examples from our project.
 
 ---
 
